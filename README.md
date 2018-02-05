@@ -12,7 +12,7 @@ U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/90
 *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.  
 But knowing the stuff will help you become better! :muscle:*
 
-*P.P.S. [Contributions](CONTRIBUTING.md) are welcomed!*
+*P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
 
 ----
 
@@ -34,6 +34,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -45,6 +46,8 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)
 - [Homoglyphs](https://github.com/codebox/homoglyph/)
 - [Unicode Common Locale Data Repository](http://cldr.unicode.org/)
+- :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
+- :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
 ### Latency
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
@@ -66,11 +69,13 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### RegExp
 - [RegexHQ](https://github.com/regexhq)
-- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex.git)
+- [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 
 ### Security
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
 - :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
+- :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
+- :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
 - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
@@ -87,9 +92,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Practical Object Oriented Design in Ruby](http://www.poodr.com/)
 - :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
 - [System Design: A Primer](https://github.com/donnemartin/system-design-primer)
+- :page_facing_up: [How JavaScript works: part-1](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 
 ### Practices
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - :book: [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 - :white_check_mark: [Going To Production Checklist](https://github.com/mr-mig/going-to-production)
 - :book: [Release It!](https://www.goodreads.com/book/show/1069827.Release_It_)
@@ -117,14 +124,26 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - :page_facing_up: [TL;DR; Stock Options](https://tldroptions.io/)
-- :page_facing_up: [Equity 101 for Startup Employees](https://blog.esharesinc.com/equity-101-stock-option-basics/)
+- :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 - :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+- :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
+
+
+### UX/Usability
+- :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- :movie_camera: [Inventing on Principle](https://vimeo.com/36579366)
+
+### Open Source
+- :globe_with_meridians: [An Intro to Git and GitHub for Beginners](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ### Remote Work
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
+- :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ### Engineering Philosophy
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
@@ -134,6 +153,11 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
 - :page_facing_up: [The mythical 10x programmer](http://antirez.com/news/112)
 - :page_facing_up: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754)
+- :movie_camera: [The Future of Programming](http://worrydream.com/dbx/)
+
+### Problem Solving
+- :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
+- :book: [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 
 ### Soft Skills
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
@@ -144,6 +168,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](http://futuretech.blinkenlights.nl/misc/cpumemory.pdf)
+- 📜 [Go To Statement Considered Harmful](https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)
 
 ### Free Books on Programming
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -155,16 +180,23 @@ But knowing the stuff will help you become better! :muscle:*
 - [Without Coding](https://www.producthunt.com/@jurica87/collections/without-coding)
 - [Simpleicons](https://simpleicons.org/)
 - [Learn Anything](https://learn-anything.xyz/)
+- [repl.it](https://repl.it/)
+
+### Licenses
+- [Choose An Open Source License](https://choosealicense.com/)
+- [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
-- [Stackoverflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Dzone](https://dzone.com/)
 
 ### Coding Practice Sites :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
+- :link: [Coderbyte](https://coderbyte.com/)
 - :link: [CodinGame](https://www.codingame.com/)
 - :link: [Cs Academy](https://csacademy.com/)
 - :link: [HackerRank](https://hackerrank.com/)
@@ -177,3 +209,6 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [Project Euler](https://projecteuler.net/)
 - :link: [LeetCode](https://leetcode.com/)
 - :link: [InterviewBit](https://www.interviewbit.com/)
+- :link: [LintCode](https://www.lintcode.com/)
+- :link: [CodeCombat](https://codecombat.com/)
+
